@@ -84,6 +84,53 @@ Existing temporal action detection (TAD) methods take videos of different length
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/FAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FAM: Frequency-Based Adaptive Mutual Learning for Semi-Supervised Medical Image Segmentation**](https://arxiv.org/)
+
+Yue Bi, **Wenjie Zhang**, Xiao Jia, Zhongwei Zhao, Ran Song, Nengwang Yun, and Wei Zhang
+
+<strong><font color="#4169E1">Preprints</font></strong>
+
+This work introduced a novel framework designed to enhance the reliability and self-correction capability of pseudo-labels. FAM tackles confirmation bias by incorporating multiple strategies, with distinct inner and outer learning loops designed for progressive optimization. Extensive experiments on the ACDC and PROMISE12 datasets demonstrate that FAM achieves state-of-the-art performance.
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+<details class="abstract-details" style="margin-right: 10pt;">
+<summary class="abstract-summary-button">Abstract</summary>
+<br>
+Co-training has proven to be a powerful framework for semi-supervised medical image segmentation, primarily leveraging pseudo-labeling via cross-supervision. A persistent challenge in existing co-training methods is confirmation bias, where inaccurate pseudo-labels are reinforced, leading to unstable training. To address this issue, we propose Frequency-based Adaptive Mutual Learning (FAM), a novel framework designed to enhance the reliability and self-correction capability of pseudo-labels. FAM tackles confirmation bias by incorporating multiple strategies, with distinct inner and outer learning loops designed for progressive optimization. In the inner learning loop, Mutual Uncertainty Distance (MUD) is introduced to reduce the uncertainty gap between labeled and unlabeled data, improving pseudo-label reliability and mitigating error accumulation. In the outer learning loop, we introduce Adaptive Self-Correction (ASC), an adaptive strategy that refines subnet updates based on pseudo-label quality, enabling self-correction and improving training stability. The entire training process is supported by the Frequency Dual-View Stream (FDvS) architecture, which leverages the frequency tendencies of both networks and images, providing complementary feature representations that enhance both inner and outer learning. Extensive experiments on the ACDC and PROMISE12 datasets demonstrate that FAM achieves state-of-the-art performance, highlighting its effectiveness in semi-supervised medical image segmentation. 
+</details>
+<a href="https://github.com/biyue1207/FAM.git" class="code-link">[Code]</a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/TriQuery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TriQuery: A Query-Based Model for Surgical Triplet Recognition**](https://arxiv.org/)
+
+Mengrui Yao, **Wenjie Zhang**, Lin Wang, Fufang Wang, Zhong Zhao, and Xiao Jia
+
+<strong><font color="#4169E1">Preprints</font></strong>
+
+This work introduced TriQuery, a query-centric model for surgical triplet recognition and classification. Built on a multi-task Transformer framework, TriQuery decomposes the complex triplet task into three semantically aligned subtasks using task-specific query tokens, which are processed through specialized attention mechanisms. 
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+<details class="abstract-details" style="margin-right: 10pt;">
+<summary class="abstract-summary-button">Abstract</summary>
+<br>
+Artificial intelligence has shown great promise in advancing intelligent surgical systems. Among its applications, surgical video action recognition plays a critical role in enabling accurate intraoperative understanding and decision support. However, the task remains challenging due to the temporal continuity of surgical scenes and the long-tailed, semantically entangled distribution of action triplets composed of instruments, verbs, and targets. To address these issues, we propose TriQuery, a query-centric model for surgical triplet recognition and classification. Built on a multi-task Transformer framework, TriQuery decomposes the complex triplet task into three semantically aligned subtasks using task-specific query tokens, which are processed through specialized attention mechanisms. We introduce a Multi-Query Decoding Head (MQ-DH) to jointly model structured subtasks and a Top-K Guided Query Update (TKQ) module to incorporate inter-frame temporal cues. Experiments on the CholecT45 dataset demonstrate that TriQuery achieves improved overall performance over existing baselines across multiple classification tasks. Attention visualizations further show that task queries consistently attend to semantically relevant spatial regions, enhancing model interpretability. These results highlight the effectiveness of TriQuery for advancing surgical video understanding in clinical environments.
+</details>
+</div>
+
+</div>
+</div>
+
 # ⚙️ Academic Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergarten.gif' alt="Smart Campus Personnel Safety System Demo" width="100%"></div></div>
