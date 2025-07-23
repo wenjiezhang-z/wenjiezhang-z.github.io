@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👤 About Me
 I am currently pursuing a Master's degree at the Visual Sensing and Intelligent Systems Laboratory (VSISLab), Shandong University, China, with a focus on Computer Vision and Deep Learning. I am advised by Prof. Wei Zhang, and I also work closely with my co-supervisors Prof. Ran Song and Prof. Xiao Jia. Before this, I received my Bachelor's degree in Automation from Shandong University.
 
 **Research Interests:** I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on visual scene understanding from images and videos. I have worked in image understanding tasks (Object Detection, Semantic Segmentation, Object Tracking), video understanding tasks (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection), and vision-language modeling. I am also very interested in medical image analysis and have worked on medical image segmentation tasks and medical surgical scene understanding tasks, among others.
