@@ -84,4 +84,4 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 # Visitor Map
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hB9vJPVf8Tiu-4VYekyixCzGDZbWUwu5E8TdfQqEI90"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hB9vJPVf8Tiu-4VYekyixCzGDZbWUwu5E8TdfQqEI90&w=300"></script>
