@@ -48,6 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
+    gap: 10px;
     
 
     .paper-box-image{
@@ -63,7 +64,6 @@
     }
     
     .paper-box-text{
-        padding-left: 2em
         max-width: 100%;
         order: 1;
     }
