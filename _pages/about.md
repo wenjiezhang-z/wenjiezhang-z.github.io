@@ -66,6 +66,7 @@ This project addresses the pressing need for digital and intelligent management 
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/bird.gif' alt="Intelligent Bird Repellent System Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,6 +78,20 @@ This project addresses the problem of birds perching and nesting on power grid t
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/Rebar.jpg' alt="Rebar Tensile Strength Qualification Detection Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Image Recognition-Based System for Rebar Tensile Strength Qualification Detection
+
+<p style="text-align: justify;">
+This system leverages advanced image processing and deep learning techniques to automatically assess the quality of steel rebar after tensile testing. It aims to significantly enhance inspection efficiency and accuracy in construction and manufacturing industries.
+</p>
+
+</div>
+</div>
+
 
 # 🏅 Honors and Awards
 - *2025.05* Shandong University May Fourth Youth Science Award.
