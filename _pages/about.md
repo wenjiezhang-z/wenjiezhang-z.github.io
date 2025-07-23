@@ -66,6 +66,18 @@ This project addresses the pressing need for digital and intelligent management 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergarten.gif' alt="Smart Campus Personnel Safety System Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Intelligent Bird Repellent System
+
+<p style="text-align: justify;">
+This project addresses the problem of birds perching and nesting on power grid towers, which leads to bird electrocution and power grid trips. We developed a bird detection and tracking algorithm based on <strong>YOLOv5 + DeepSORT</strong>.
+</p>
+
+</div>
+</div>
+
 # 🏅 Honors and Awards
 - *2025.05* Shandong University May Fourth Youth Science Award.
 - *2023.06* Shandong Province Outstanding Graduate (Undergraduate).
