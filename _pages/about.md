@@ -73,7 +73,7 @@ This project addresses the pressing need for digital and intelligent management 
 <strong><font color="#4169E1">Intelligent Bird Repellent System</font></strong>
 
 <p style="text-align: justify;">
-This project addresses the problem of birds perching and nesting on power grid towers, which leads to bird electrocution and power grid trips. We developed a bird detection and tracking algorithm based on <strong>YOLOv5 + DeepSORT</strong>.
+This project tackles an issue in power infrastructure: the detrimental impact of birds perching and nesting on power grid towers, which results in both bird electrocution and costly power grid trips. To proactively mitigate these hazards, we've developed a laser bird repellent system based on <strong>YOLOv5 + DeepSORT</strong>.
 </p>
 
 </div>
@@ -86,7 +86,7 @@ This project addresses the problem of birds perching and nesting on power grid t
 <strong><font color="#4169E1">An Image Recognition-Based System for Rebar Tensile Strength Qualification Detection</font></strong>
 
 <p style="text-align: justify;">
-This system leverages advanced image processing and deep learning techniques to automatically assess the quality of steel rebar after tensile testing. It aims to significantly enhance inspection efficiency and accuracy in construction and manufacturing industries.
+This system leverages advanced image processing and deep learning techniques to automatically assess the quality of steel rebar after tensile testing. By providing precise and consistent qualification detection, the system can help reduce human error, accelerate material verification, and ultimately contribute to safer and more reliable infrastructure.
 </p>
 
 </div>
