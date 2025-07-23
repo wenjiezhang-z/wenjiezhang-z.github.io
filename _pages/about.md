@@ -90,3 +90,5 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 <div style="text-align: center;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hB9vJPVf8Tiu-4VYekyixCzGDZbWUwu5E8TdfQqEI90&cl=ffffff&w=300"></script>
 </div>
+
+<br>
