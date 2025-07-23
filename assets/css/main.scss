@@ -109,29 +109,25 @@ h1:before, .anchor:before {
 }
 
 
-.abstract-details {
-    position: relative; /* Make the <details> element the positioning context for its children */
-}
-
-.abstract-details summary {
-    display: inline-block; /* Treat summary as an inline block to control its width */
-    /* Remove any previous flexbox styles from summary if you had them */
-    padding-right: 40pt; /* Add padding to the right of "Abstract" to prevent overlap with the link */
-    /* Adjust this padding if the link text changes length */
-}
-
-.abstract-details .code-link {
-    position: absolute; /* Position the link absolutely */
-    top: 0; /* Align with the top of the summary */
-    left: calc(var(--summary-width, 0px) + 20pt); /* Position it 20pt to the right of "Abstract" */
-    
-    /* Fallback/alternative for `var` if not supported or dynamic width is hard */
-    /* You might need to adjust 'calc(100% + 20pt)' if summary width varies greatly */
-    /* Or, simply use a fixed left value if you know the maximum width of "Abstract" */
-    /* left: Xpx;  -- X is the width of Abstract + 20pt */
-
+/* Styles for both Code and Abstract "links" */
+.code-link,
+.abstract-expander {
     text-decoration: none;
-    color: #007bff; /* Use your preferred link color */
+    color: #007bff; /* Match your link color */
     font-weight: normal;
-    white-space: nowrap; /* Prevent "[Code]" from wrapping */
+    white-space: nowrap;
+    cursor: pointer; /* Show pointer cursor for Abstract expander */
+    display: inline-block; /* Allow margin */
+}
+
+/* Adjust spacing between them */
+.abstract-expander {
+    margin-right: 20pt; /* Gap between Abstract and Code */
+}
+
+/* Hide the default disclosure triangle from the <details> tag */
+.abstract-details summary::-webkit-details-marker,
+.abstract-details summary::marker {
+    display: none;
+    content: ""; /* For Firefox/Edge */
 }
