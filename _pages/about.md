@@ -52,20 +52,18 @@ I am currently pursuing a Master's degree at the Visual Sensing and Intelligent 
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Shandong_University.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Shandong University
-
-Position: Bachelor of Technology (B.Tech) in Automation
-
-Under Prof. Wei Zhang
-
-Thesis: Human Action Recognition with Attention Mechanism
-
-Sep 2019 - Jun 2023
-
-</div>
+<div style="display: flex; align-items: flex-start; gap: 20px; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fff;">
+    <div style="flex-shrink: 0; width: 150px;">
+        <img src='images/Shandong_University.jpg' alt="Shandong University Logo" style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+        </div>
+    
+    <div>
+        <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">Shandong University</p>
+        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Bachelor of Technology (B.Tech) in Automation</p>
+        <p style="margin: 0 0 5px 0;"><strong>Under:</strong> Prof. Wei Zhang</p>
+        <p style="margin: 0 0 5px 0;"><strong>Thesis:</strong> Human Action Recognition with Attention Mechanism</p>
+        <p style="margin: 0;"><strong>Period:</strong> Sep 2019 - Jun 2023</p>
+        </div>
 </div>
 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
