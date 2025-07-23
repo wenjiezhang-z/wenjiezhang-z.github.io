@@ -85,6 +85,4 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 <br>
 <br>
 
-<a href="https://clustrmaps.com/site/1c79l" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=hB9vJPVf8Tiu-4VYekyixCzGDZbWUwu5E8TdfQqEI90&cl=ffffff" width="300" height="200">
-</a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hB9vJPVf8Tiu-4VYekyixCzGDZbWUwu5E8TdfQqEI90&cl=ffffff&w=300"></script>
