@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# title                    : "Wenjie Zhang's Academic Personal Homepage"
-# description              : "Master's student at Shandong University, School of Control Science and Engineering. Research focuses on AI for Science, video understanding, and computer vision."
+title                    : "Wenjie Zhang's Academic Personal Homepage"
+description              : "zwjie@mail.sdu.edu.cn"
 repository               : "wenjiezhang-z/wenjiezhang-z.github.io"
 google_scholar_stats_use_cdn : true
 
