@@ -55,6 +55,20 @@ I am currently pursuing a Master's degree at the Visual Sensing and Intelligent 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fff;">
     <div style="flex-shrink: 0; width: 150px;">
         <img src='images/Shandong_University.jpg' alt="Shandong University Logo" style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+    </div>
+    
+    <div>
+        <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">Shandong University</p>
+        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Master of Science (M.Sc.) in Control Science and Engineering</p>
+        <p style="margin: 0 0 5px 0;"><strong>Under:</strong> Prof. Wei Zhang</p>
+        <p style="margin: 0 0 5px 0;"><strong>Thesis:</strong> Query-based Surgical Scene Understanding</p>
+        <p style="margin: 0;"><strong>Period:</strong> Sep 2023 - Present</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fff;">
+    <div style="flex-shrink: 0; width: 150px;">
+        <img src='images/Shandong_University.jpg' alt="Shandong University Logo" style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
         </div>
     
     <div>
@@ -65,6 +79,3 @@ I am currently pursuing a Master's degree at the Visual Sensing and Intelligent 
         <p style="margin: 0;"><strong>Period:</strong> Sep 2019 - Jun 2023</p>
         </div>
 </div>
-
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
