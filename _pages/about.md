@@ -53,15 +53,16 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 # ⚙️ Academic Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergartem.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Smart Campus Personnel Safety Behavior Analysis and Early Warning System)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+This project addresses the pressing need for digital and intelligent management upgrades in campus administration, focusing on a comprehensive smart campus safety system that integrates prevention, early warning, and response.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Key functionalities include intruder detection for campus fences, a student dangerous behavior alert system, and a classroom behavior management system that monitors for sleeping in class and provides hand-raising statistics. The system employs a four-layer architecture (Front-end Perception, Edge Computing, Central Platform, and Mobile Application). 
+
+- *The algorithm will ultimately be deployed at Qingya Kindergarten in Huaiyin District, Jinan City.*
 </div>
 </div>
 
