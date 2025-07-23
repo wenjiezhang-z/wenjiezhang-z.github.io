@@ -42,7 +42,7 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 [**B2Q-Net: Bidirectional Branch Query Network for Online Surgical Phase Recognition**](https://arxiv.org/)
 
-**Wenjie Zhang**, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
+<span style="font-size: 1.2em; font-weight: bold;">Wenjie Zhang</span>, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
@@ -67,7 +67,7 @@ Surgical phase recognition (SPR) is essential for surgical workflow analysis and
 
 [**DBR-TAD: Diffusion-Based Boundary Refinement for Temporal Action Detection**](https://arxiv.org/)
 
-**Wenjie Zhang**, Zhiheng Li, Wenhao Tan, Ran Song, Jiyu Cheng, and Wei Zhang
+<span style="font-size: 1.2em; font-weight: bold;">Wenjie Zhang</span>, Zhiheng Li, Wenhao Tan, Ran Song, Jiyu Cheng, and Wei Zhang
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
@@ -92,7 +92,7 @@ Existing temporal action detection (TAD) methods take videos of different length
 
 [**FAM: Frequency-Based Adaptive Mutual Learning for Semi-Supervised Medical Image Segmentation**](https://arxiv.org/)
 
-Yue Bi, **Wenjie Zhang**, Xiao Jia, Zhongwei Zhao, Ran Song, Nengwang Yun, and Wei Zhang
+Yue Bi, <span style="font-size: 1.2em; font-weight: bold;">Wenjie Zhang</span>, Xiao Jia, Zhongwei Zhao, Ran Song, Nengwang Yun, and Wei Zhang
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
@@ -117,7 +117,7 @@ Co-training has proven to be a powerful framework for semi-supervised medical im
 
 [**TriQuery: A Query-Based Model for Surgical Triplet Recognition**](https://arxiv.org/)
 
-Mengrui Yao, **Wenjie Zhang**, Lin Wang, Fufang Wang, Zhong Zhao, and Xiao Jia
+Mengrui Yao, <span style="font-size: 1.2em; font-weight: bold;">Wenjie Zhang</span>, Lin Wang, Fufang Wang, Zhong Zhao, and Xiao Jia
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
