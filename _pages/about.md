@@ -22,11 +22,11 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 **Research Interests:** I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on visual scene understanding from images and videos. I have worked in image understanding tasks (Object Detection, Semantic Segmentation, Object Tracking), video understanding tasks (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection), and vision-language modeling. I am also very interested in medical image analysis and have worked on medical image segmentation tasks and medical surgical scene understanding tasks, among others.
 
-**Collaboration:** I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested.
+**<font color="#ffc033">Collaboration:</font>** I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
-- *2023.06*: &nbsp;🎉🎉 Our team won the National Second Prize in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
+- *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
+- *2024.11*: &nbsp;🎉🎉 Our team won the National Second Prize in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
 - *2023.06*: &nbsp;🎉🎉 Our team won 1st place at the **SoccerNet Action Spotting** Challenge at the CVSports workshop during CVPR 2023.
 
 # 📝 Publications 
