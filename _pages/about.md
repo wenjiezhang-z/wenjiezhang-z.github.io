@@ -18,11 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About Me
+<p style="text-align: justify;">
 I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com"><font color="#4169E1">Visual Sensing and Intelligent Systems Laboratory (VSISLab)</font></a>, Shandong University, China, with a focus on Computer Vision and Deep Learning. I am advised by <a href="https://ieeexplore.ieee.org/author/37085379581"><font color="#4169E1">Prof. Wei Zhang</font></a>, and I also work closely with my co-supervisors <a href="https://faculty.sdu.edu.cn/songran/en/index.htm"><font color="#4169E1">Prof. Ran Song</font></a> and <a href="https://scholar.google.com/citations?user=fjmxqlUAAAAJ&hl=zh-CN"><font color="#4169E1">Prof. Xiao Jia</font></a>. Before this, I received my Bachelor's degree in Automation from Shandong University.
+</p>
 
-**<font color="#a7b529">Research Interests:</font>** I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on **visual scene understanding from images and videos**. I have worked in **image understanding tasks** (Object Detection, Semantic Segmentation, Object Tracking), **video understanding tasks** (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection), and **vision-language modeling**. I am also very interested in **medical image analysis** and have worked on **medical image segmentation tasks** and **medical surgical scene understanding tasks**, among others.
+**<span style="color: #a7b529;">Research Interests:</span>**
+<p style="text-align: justify;">
+I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on **visual scene understanding from images and videos**. I have worked in **image understanding tasks** (Object Detection, Semantic Segmentation, Object Tracking), **video understanding tasks** (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection), and **vision-language modeling**. I am also very interested in **medical image analysis** and have worked on **medical image segmentation tasks** and **medical surgical scene understanding tasks**, among others.
+</p>
 
-**<font color="#c59428">Collaboration:</font>** I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested.
+**<span style="color: #c59428;">Collaboration:</span>**
+<p style="text-align: justify;">
+I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested.
+</p>
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
