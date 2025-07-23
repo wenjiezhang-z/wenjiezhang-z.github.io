@@ -52,8 +52,9 @@ This work introduced a novel method, named B2Q-Net, which formulates the online 
 <details class="abstract-details" style="margin-right: 10pt;">
 <summary class="abstract-summary-button">[<span class="custom-underline">Abstract</span>]</summary>
 <br>
+<p style="text-align: justify;">
 Surgical phase recognition (SPR) is essential for surgical workflow analysis and provides immediate guidance during procedures. In contrast to offline recognition, which processes videos post-operatively, online phase recognition (OPR) requires real-time inference without relying on future frames. Existing methods aggregate frame-level information into a global representation and treat the task as frame-wise classification. However, this pipeline lacks a feedback mechanism for integrating historical information into local temporal modeling. To address this limitation, we propose the Bidirectional Branch Query Network (B2Q-Net), which reformulates the OPR task as the bidirectional query between phase-level features and frame-level features. B2Q-Net incorporates historical information during the initialization of phase queries. This enables bidirectional information flow during iterative refinement of two-level feature maps between phases and frames. Furthermore, we introduce a dual-scale selector (DSS) to generate high-quality phase queries for the current video clip. These phase queries retrieve historical information from the proposed state space query (SSQ) module, which uses learnable tokens as the historical state space to preserve historical information. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
-</details>
+</p></details>
 <a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
 </div>
 
@@ -76,8 +77,9 @@ This work introduced a diffusion-based boundary refinement method for TAD. DBR-T
 <details class="abstract-details" style="margin-right: 10pt;">
 <summary class="abstract-summary-button">[<span class="custom-underline">Abstract</span>]</summary>
 <br>
+<p style="text-align: justify;">
 Existing temporal action detection (TAD) methods take videos of different lengths as input and produce a fixed-length feature sequence by feature extraction and temporal downsampling, followed by action boundary localization and action classification. However, the temporal downsampling often leads to the loss of action information and results in the difficulty of locating accurate action boundaries. To address this issue, we introduce DBR-TAD, a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Its core component is the diffusion-based boundary refinement (DBR) module, which progressively converts the distributions corresponding to uncertain and noisy action boundaries predicted by any TAD model to the specific distributions corresponding to good action boundaries. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
-</details>
+</p></details>
 <a href="https://github.com/wenjiezhang-z/DBR-TAD" class="code-link">[Code]</a>
 </div>
 
@@ -100,8 +102,9 @@ This work introduced a novel framework designed to enhance the reliability and s
 <details class="abstract-details" style="margin-right: 10pt;">
 <summary class="abstract-summary-button">[<span class="custom-underline">Abstract</span>]</summary>
 <br>
+<p style="text-align: justify;">
 Co-training has proven to be a powerful framework for semi-supervised medical image segmentation, primarily leveraging pseudo-labeling via cross-supervision. A persistent challenge in existing co-training methods is confirmation bias, where inaccurate pseudo-labels are reinforced, leading to unstable training. To address this issue, we propose Frequency-based Adaptive Mutual Learning (FAM), a novel framework designed to enhance the reliability and self-correction capability of pseudo-labels. FAM tackles confirmation bias by incorporating multiple strategies, with distinct inner and outer learning loops designed for progressive optimization. In the inner learning loop, Mutual Uncertainty Distance (MUD) is introduced to reduce the uncertainty gap between labeled and unlabeled data, improving pseudo-label reliability and mitigating error accumulation. In the outer learning loop, we introduce Adaptive Self-Correction (ASC), an adaptive strategy that refines subnet updates based on pseudo-label quality, enabling self-correction and improving training stability. The entire training process is supported by the Frequency Dual-View Stream (FDvS) architecture, which leverages the frequency tendencies of both networks and images, providing complementary feature representations that enhance both inner and outer learning. Extensive experiments on the ACDC and PROMISE12 datasets demonstrate that FAM achieves state-of-the-art performance, highlighting its effectiveness in semi-supervised medical image segmentation. 
-</details>
+</p></details>
 <a href="https://github.com/biyue1207/FAM.git" class="code-link">[Code]</a>
 </div>
 
@@ -124,8 +127,9 @@ This work introduced TriQuery, a query-centric model for surgical triplet recogn
 <details class="abstract-details" style="margin-right: 10pt;">
 <summary class="abstract-summary-button">[<span class="custom-underline">Abstract</span>]</summary>
 <br>
+<p style="text-align: justify;">
 Artificial intelligence has shown great promise in advancing intelligent surgical systems. Among its applications, surgical video action recognition plays a critical role in enabling accurate intraoperative understanding and decision support. However, the task remains challenging due to the temporal continuity of surgical scenes and the long-tailed, semantically entangled distribution of action triplets composed of instruments, verbs, and targets. To address these issues, we propose TriQuery, a query-centric model for surgical triplet recognition and classification. Built on a multi-task Transformer framework, TriQuery decomposes the complex triplet task into three semantically aligned subtasks using task-specific query tokens, which are processed through specialized attention mechanisms. We introduce a Multi-Query Decoding Head (MQ-DH) to jointly model structured subtasks and a Top-K Guided Query Update (TKQ) module to incorporate inter-frame temporal cues. Experiments on the CholecT45 dataset demonstrate that TriQuery achieves improved overall performance over existing baselines across multiple classification tasks. Attention visualizations further show that task queries consistently attend to semantically relevant spatial regions, enhancing model interpretability. These results highlight the effectiveness of TriQuery for advancing surgical video understanding in clinical environments.
-</details>
+</p></details>
 </div>
 
 </div>
