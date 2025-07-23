@@ -109,25 +109,45 @@ h1:before, .anchor:before {
 }
 
 
-/* Styles for both Code and Abstract "links" */
-.code-link,
-.abstract-expander {
+/* Outer container to place Abstract and Code links side-by-side */
+/* Note: This outer div in the HTML is newly added; adjust based on your actual page layout. */
+/* If your page already uses flex or grid, you might not need this outer div. */
+/* div[style="display: flex; align-items: center; margin-bottom: 1em;"] */
+
+/* Styles for the <details> element of Abstract */
+.abstract-details {
+    /* No specific position: relative; needed here, as the outer flex container manages layout */
+}
+
+/* Styles for the <summary> element of Abstract, making it look like a button/link */
+.abstract-summary-button {
+    display: inline-block; /* Make it occupy only content width, like a button */
+    text-decoration: none; /* Remove default underline */
+    color: #007bff; /* Set color to make it look like a link */
+    font-weight: normal; /* No bolding */
+    cursor: pointer; /* Show pointer cursor on hover to indicate clickability */
+    white-space: nowrap; /* Prevent text wrapping */
+    padding: 0; /* Remove default padding for precise control */
+    /* background: none; border: none; /* Clear default button styles if any */
+}
+
+/* Hide the default disclosure arrow of <summary> */
+.abstract-summary-button::-webkit-details-marker, /* Chrome, Safari, Edge */
+.abstract-summary-button::marker { /* Firefox */
+    display: none;
+    content: ""; /* Ensure Firefox hides it */
+}
+
+/* Add underline on hover to the Abstract button for visual feedback */
+.abstract-summary-button:hover {
+    text-decoration: underline;
+}
+
+/* Styles for the Code link, ensuring consistency with Abstract */
+.code-link {
     text-decoration: none;
-    color: #007bff; /* Match your link color */
+    color: #007bff; /* Keep the same color as Abstract */
     font-weight: normal;
     white-space: nowrap;
-    cursor: pointer; /* Show pointer cursor for Abstract expander */
-    display: inline-block; /* Allow margin */
-}
-
-/* Adjust spacing between them */
-.abstract-expander {
-    margin-right: 20pt; /* Gap between Abstract and Code */
-}
-
-/* Hide the default disclosure triangle from the <details> tag */
-.abstract-details summary::-webkit-details-marker,
-.abstract-details summary::marker {
-    display: none;
-    content: ""; /* For Firefox/Edge */
+    /* display: inline-block; /* Ensure it can sit alongside summary-button */
 }
