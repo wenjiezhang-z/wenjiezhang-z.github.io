@@ -56,7 +56,7 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergarten.gif' alt="Smart Campus Personnel Safety System Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Smart Campus Personnel Safety Behavior Analysis and Early Warning System
+<strong><font color="#4169E1">Smart Campus Personnel Safety Behavior Analysis and Early Warning System</font></strong>
 
 <p style="text-align: justify;">
 This project addresses the pressing need for digital and intelligent management upgrades in campus administration. Key functionalities include intruder detection for campus fences, a student dangerous behavior alert system, and a classroom behavior management system that monitors.
@@ -70,7 +70,7 @@ This project addresses the pressing need for digital and intelligent management 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/bird.gif' alt="Intelligent Bird Repellent System Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Intelligent Bird Repellent System
+<strong><font color="#4169E1">Intelligent Bird Repellent System</font></strong>
 
 <p style="text-align: justify;">
 This project addresses the problem of birds perching and nesting on power grid towers, which leads to bird electrocution and power grid trips. We developed a bird detection and tracking algorithm based on <strong>YOLOv5 + DeepSORT</strong>.
@@ -83,7 +83,7 @@ This project addresses the problem of birds perching and nesting on power grid t
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/Rebar.jpg' alt="Rebar Tensile Strength Qualification Detection Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Image Recognition-Based System for Rebar Tensile Strength Qualification Detection
+<strong><font color="#4169E1">An Image Recognition-Based System for Rebar Tensile Strength Qualification Detection</font></strong>
 
 <p style="text-align: justify;">
 This system leverages advanced image processing and deep learning techniques to automatically assess the quality of steel rebar after tensile testing. It aims to significantly enhance inspection efficiency and accuracy in construction and manufacturing industries.
