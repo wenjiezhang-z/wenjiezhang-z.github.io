@@ -61,7 +61,30 @@ Surgical phase recognition (SPR) is essential for surgical workflow analysis and
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/DBR-TAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**DBR-TAD: Diffusion-Based Boundary Refinement for Temporal Action Detection**](https://arxiv.org/)
+
+**Wenjie Zhang**, Zhiheng Li, Wenhao Tan, Ran Song, Jiyu Cheng, and Wei Zhang
+
+<strong><font color="#4169E1">Preprints</font></strong>
+
+This work introduced a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
+
+<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
+<details class="abstract-details">
+<summary>Abstract</summary>
+
+<br>
+  
+Existing temporal action detection (TAD) methods take videos of different lengths as input and produce a fixed-length feature sequence by feature extraction and temporal downsampling, followed by action boundary localization and action classification. However, the temporal downsampling often leads to the loss of action information and results in the difficulty of locating accurate action boundaries. To address this issue, we introduce DBR-TAD, a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Its core component is the diffusion-based boundary refinement (DBR) module, which progressively converts the distributions corresponding to uncertain and noisy action boundaries predicted by any TAD model to the specific distributions corresponding to good action boundaries. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
+
+</details>
+
+</div>
+</div>
 
 # ⚙️ Academic Projects
 
