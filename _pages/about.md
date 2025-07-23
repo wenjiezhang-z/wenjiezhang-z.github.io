@@ -27,7 +27,7 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 </p>
 
 <p style="text-align: justify;">
-<span style="color: #c59428;"><strong>Collaboration:</strong></span></strong> I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested. 
+<span style="color: #c59428;"><strong>Collaboration:</strong></span> I am always open to discussions and collaborations. Please feel free to reach out via email if you're interested. 
 </p>
 
 # 🔥 News
