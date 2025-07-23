@@ -37,15 +37,24 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/B2Q-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[B2Q-Net: Bidirectional Branch Query Network for Online Surgical Phase Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Wenjie Zhang**, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<strong><font color="#4169E1">Preprints</font></strong>
+
+This work introduced a novel method, named B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
+
+<details>
+<summary>Abstract</summary>
+
+Surgical phase recognition (SPR) is essential for surgical workflow analysis and provides immediate guidance during procedures. In contrast to offline recognition, which processes videos post-operatively, online phase recognition (OPR) requires real-time inference without relying on future frames. Existing methods aggregate frame-level information into a global representation and treat the task as frame-wise classification. However, this pipeline lacks a feedback mechanism for integrating historical information into local temporal modeling. To address this limitation, we propose the Bidirectional Branch Query Network (B2Q-Net), which reformulates the OPR task as the bidirectional query between phase-level features and frame-level features. B2Q-Net incorporates historical information during the initialization of phase queries. This enables bidirectional information flow during iterative refinement of two-level feature maps between phases and frames. Furthermore, we introduce a dual-scale selector (DSS) to generate high-quality phase queries for the current video clip. These phase queries retrieve historical information from the proposed state space query (SSQ) module, which uses learnable tokens as the historical state space to preserve historical information. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
+
+</details>
+
 </div>
 </div>
 
