@@ -151,3 +151,9 @@ h1:before, .anchor:before {
     white-space: nowrap;
     /* display: inline-block; /* Ensure it can sit alongside summary-button */
 }
+
+.custom-underline {
+    text-decoration: underline; 
+    text-decoration-color: #007bff; 
+    text-decoration-thickness: 2px;
+}
