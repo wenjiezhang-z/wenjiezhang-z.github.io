@@ -96,7 +96,8 @@ This system leverages advanced image processing and deep learning techniques to 
 # 🏅 Honors and Awards
 - *2025.05* Shandong University May Fourth Youth Science Award.
 - *2023.06* Shandong Province Outstanding Graduate (Undergraduate).
-- *2021.11* First-Class Academic Scholarship, Shandong University.
+- *2022.01* First Prize in the Shandong Province Undergraduate Science and Technology Innovation Competition.
+- *2021.11* First Class Academic Scholarship, Shandong University.
 
 # 📖 Educations
 
