@@ -49,7 +49,7 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 This work introduced a novel method, named B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-<details class="abstract-details" style="margin-right: 20pt;">
+<details class="abstract-details" style="margin-right: 10pt;">
 <summary class="abstract-summary-button">Abstract</summary>
 <br>
 Surgical phase recognition (SPR) is essential for surgical workflow analysis and provides immediate guidance during procedures. In contrast to offline recognition, which processes videos post-operatively, online phase recognition (OPR) requires real-time inference without relying on future frames. Existing methods aggregate frame-level information into a global representation and treat the task as frame-wise classification. However, this pipeline lacks a feedback mechanism for integrating historical information into local temporal modeling. To address this limitation, we propose the Bidirectional Branch Query Network (B2Q-Net), which reformulates the OPR task as the bidirectional query between phase-level features and frame-level features. B2Q-Net incorporates historical information during the initialization of phase queries. This enables bidirectional information flow during iterative refinement of two-level feature maps between phases and frames. Furthermore, we introduce a dual-scale selector (DSS) to generate high-quality phase queries for the current video clip. These phase queries retrieve historical information from the proposed state space query (SSQ) module, which uses learnable tokens as the historical state space to preserve historical information. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
@@ -72,14 +72,14 @@ Surgical phase recognition (SPR) is essential for surgical workflow analysis and
 
 This work introduced a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
 
-<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
-<span class="abstract-expander">[Abstract]</span>
-
-<details class="abstract-details">
-<summary style="display: none;"></summary> 
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+<details class="abstract-details" style="margin-right: 10pt;">
+<summary class="abstract-summary-button">Abstract</summary>
 <br>
 Existing temporal action detection (TAD) methods take videos of different lengths as input and produce a fixed-length feature sequence by feature extraction and temporal downsampling, followed by action boundary localization and action classification. However, the temporal downsampling often leads to the loss of action information and results in the difficulty of locating accurate action boundaries. To address this issue, we introduce DBR-TAD, a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Its core component is the diffusion-based boundary refinement (DBR) module, which progressively converts the distributions corresponding to uncertain and noisy action boundaries predicted by any TAD model to the specific distributions corresponding to good action boundaries. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
 </details>
+<a href="https://github.com/wenjiezhang-z/DBR-TAD" class="code-link">[Code]</a>
+</div>
 
 </div>
 </div>
