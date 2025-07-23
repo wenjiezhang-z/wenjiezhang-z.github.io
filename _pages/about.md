@@ -62,7 +62,7 @@ Smart Campus Personnel Safety Behavior Analysis and Early Warning System)
 This project addresses the pressing need for digital and intelligent management upgrades in campus administration. Key functionalities include intruder detection for campus fences, a student dangerous behavior alert system, and a classroom behavior management system that monitors for sleeping in class and provides hand-raising statistics.
 </p>
 
-- *The algorithm will ultimately be deployed at Qingya Kindergarten in Huaiyin District, Jinan City.*
+- *The algorithm has been deployed at Qingya Kindergarten in Huaiyin District, Jinan, China.*
 </div>
 </div>
 
