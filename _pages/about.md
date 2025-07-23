@@ -66,7 +66,7 @@ This project addresses the pressing need for digital and intelligent management 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergarten.gif' alt="Smart Campus Personnel Safety System Demo" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/bird.gif' alt="Intelligent Bird Repellent System Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Intelligent Bird Repellent System
