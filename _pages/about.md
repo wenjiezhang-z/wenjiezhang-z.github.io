@@ -48,9 +48,9 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 This work introduced a novel method, named B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
 
+<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
 <details class="abstract-details">
 <summary>Abstract</summary>
-<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
 
 <br>
   
