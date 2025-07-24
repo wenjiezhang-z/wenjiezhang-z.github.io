@@ -37,7 +37,7 @@ I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/B2Q-Net.png' alt="B2Q-Net Default" class="default-image"><img src='images/Publication/B2Q-Net-1.png' alt="B2Q-Net Hover" class="hover-image"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/B2Q-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**B2Q-Net: Bidirectional Branch Query Network for Online Surgical Phase Recognition**](https://arxiv.org/)
