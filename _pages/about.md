@@ -135,6 +135,7 @@ Artificial intelligence has shown great promise in advancing intelligent surgica
 </div>
 </div>
 
+<span class='anchor' id='-academic-projects'></span>
 # ⚙️ Academic Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Academic_Projects/kindergarten.gif' alt="Smart Campus Personnel Safety System Demo" width="100%"></div></div>
