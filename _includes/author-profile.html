@@ -11,6 +11,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.email %}<p class="author__email">{{ author.email }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -19,9 +20,6 @@
       <!-- {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %} -->
-      {% if author.email %}
-        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
-      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
