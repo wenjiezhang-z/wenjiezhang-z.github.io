@@ -27,11 +27,11 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 </p>
 
 <p style="text-align: justify;">
-<span style="color: #c59428; font-size: 1.1em; font-weight: bold;">Collaboration:</span> I am always open to discussions and collaborations. Please feel free to email me if you're interested. 
+<span style="color: #c59428; font-size: 1.1em; font-weight: bold;">Collaboration:</span> I am always open to discussions and collaborations. Please feel free to contact me if you're interested. 
 </p>
 
 <p style="text-align: justify;">
-🎓 <span style="color: #000000; font-size: 1.1em; font-weight: bold;">I’m currently looking for PhD position starting from 2026 fall. If you are interested, please feel free to contact me.
+🎓 <span style="color: #000000; font-size: 1.1em; font-weight: bold;">I am currently looking for a PhD position starting in Fall 2026. If you are interested, please feel free to contact me.
 </p>
 
 
