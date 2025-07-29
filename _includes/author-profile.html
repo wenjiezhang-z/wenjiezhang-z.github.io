@@ -31,21 +31,21 @@
       {% endif %}
       {% if author.cv_en or author.cv_zh %}
       <li style="display: flex; align-items: center; gap: 5px;">
-        <i class="fas fa-fw fa-file-pdf" aria-hidden="true" style="line-height: normal;"></i>
+        <i class="fas fa-fw fa-file-pdf" aria-hidden="true" style="line-height: normal; margin-top: 2px;"></i>
         {% if author.cv_en %}
-          <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal;">CV</a>
+          <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 2px;">CV</a>
         {% endif %}
         {% if author.cv_en and author.cv_zh %}
-          <span style="margin: 0 3px;">/</span>
+          <span style="margin: 0 3px; margin-top: 2px;">/</span>
         {% endif %}
         {% if author.cv_zh %}
-          <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal;">简历</a>
+          <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 2px;">简历</a>
         {% endif %}
-      </li>
+        </li>
       {% endif %}
-      {% if author.email %}
+      <!-- {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email </a></li>
-      {% endif %}
+      {% endif %} -->
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
