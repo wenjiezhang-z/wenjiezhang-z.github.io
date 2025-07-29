@@ -33,13 +33,13 @@
       <li style="display: flex; align-items: center; gap: 5px;">
         <i class="fas fa-fw fa-file-pdf" aria-hidden="true" style="line-height: normal; margin-top: 2px;"></i>
         {% if author.cv_en %}
-          <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 8px;"> CV</a>
+          <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 10px;"> CV</a>
         {% endif %}
         {% if author.cv_en and author.cv_zh %}
-          <span style="margin: 0 1px 0 -2px; margin-top: 5px;">/</span>
+          <span style="margin: 0 1px 0 -2px; margin-top: 7px;">/</span>
         {% endif %}
         {% if author.cv_zh %}
-          <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 6px;"> 简历</a>
+          <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; line-height: normal; margin-top: 8px;"> 简历</a>
         {% endif %}
         </li>
       {% endif %}
