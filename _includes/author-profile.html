@@ -30,7 +30,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.cv_en or author.cv_zh %}
-      <li style="display: flex; gap: 5px;">
+      <li style="display: flex;">
       <i class="fas fa-fw fa-file-pdf" aria-hidden="true" style="line-height: 1;"></i>
       {% if author.cv_en %}
         <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; line-height: 1;">CV</a>
