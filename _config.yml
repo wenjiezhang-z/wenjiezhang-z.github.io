@@ -57,7 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "assets/files/CV_WenjieZhang_SDU.pdf"
+  cv_en               : "assets/files/CV_WenjieZhang_SDU.pdf"
+  cv_zh               : "assets/files/CV_WenjieZhang_SDU_zh.pdf"
 
 
 # Reading Files
