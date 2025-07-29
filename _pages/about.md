@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 About Me  ([CV](https://github.com/wenjiezhang-z/wenjiezhang-z.github.io/blob/main/assets/files/CV_WenjieZhang_SDU.pdf))
+# 👤 About Me
 <p style="text-align: justify;">
 Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com">Visual Sensing and Intelligent Systems Laboratory (VSISLab)</a>, Shandong University, China, with a focus on Computer Vision and Deep Learning. I am advised by <a href="https://ieeexplore.ieee.org/author/37085379581">Prof. Wei Zhang</a>, and I also work closely with my co-supervisors <a href="https://faculty.sdu.edu.cn/songran/en/index.htm">Prof. Ran Song</a> and <a href="https://scholar.google.com/citations?user=fjmxqlUAAAAJ&hl=zh-CN">Prof. Xiao Jia</a>. Before this, I received my Bachelor's degree in Automation from Shandong University.
 </p>
