@@ -199,7 +199,7 @@ This system leverages advanced image processing and deep learning techniques to 
     
     <div>
         <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">Shandong University</p>
-        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Master of Science (M.Sc.) in Control Science and Engineering</p>
+        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Master of Control Science and Engineering</p>
         <p style="margin: 0 0 5px 0;"><strong>Under:</strong> Prof. Wei Zhang</p>
         <p style="margin: 0 0 5px 0;"><strong>Thesis:</strong> Query-based Surgical Scene Understanding</p>
         <p style="margin: 0;"><strong>Period:</strong> Sep 2023 - Present</p>
@@ -213,7 +213,7 @@ This system leverages advanced image processing and deep learning techniques to 
     
     <div>
         <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">Shandong University</p>
-        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Bachelor of Technology (B.Tech) in Automation</p>
+        <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Bachelor of Automation</p>
         <p style="margin: 0 0 5px 0;"><strong>Under:</strong> Prof. Wei Zhang</p>
         <p style="margin: 0 0 5px 0;"><strong>Thesis:</strong> Human Action Recognition with Attention Mechanism</p>
         <p style="margin: 0;"><strong>Period:</strong> Sep 2019 - Jun 2023</p>
