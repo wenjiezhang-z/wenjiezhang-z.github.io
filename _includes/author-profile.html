@@ -28,14 +28,19 @@
       {% endif %} -->
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
-        {% if author.cv_en %}
-          <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer">CV</a>
-        {% endif %}
-        {% if author.cv_en and author.cv_zh %}
-          <span style="margin: 0 5px;">|</span>
-        {% if author.cv_zh %}
-          <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer">简历</a>
-      {% endif %}</li>{% endif %}
+      {% endif %}
+      {% if author.cv_en or author.cv_zh %}
+        <li>
+          <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+          {% if author.cv_en %}
+            <a href="{{ author.cv_en }}" target="_blank" rel="noopener noreferrer">CV</a>
+          {% endif %}
+          {% if author.cv_en and author.cv_zh %}
+            <span style="margin: 0 5px;">|</span>
+          {% endif %}
+          {% if author.cv_zh %}
+            <a href="{{ author.cv_zh }}" target="_blank" rel="noopener noreferrer">简历</a>
+          {% endif %}</li>{% endif %}
       <!-- {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email </a></li>
       {% endif %} -->
