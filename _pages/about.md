@@ -183,7 +183,7 @@ This system leverages advanced image processing and deep learning techniques to 
 
 # 🏅 Honors and Awards
 - [*2025.06*]&nbsp;&nbsp;&nbsp;&nbsp;2nd place at the ATPOS 2025 Big Data Competition.
-- [*2025.05*]&nbsp;&nbsp;&nbsp;&nbsp;May Fourth Youth Science Award of Shandong University (<span style="font-size: 1.1em; font-weight: bold;"><em>Top 1%</em></span>).
+- [*2025.05*]&nbsp;&nbsp;&nbsp;&nbsp;May Fourth Youth Science Award of Shandong University (Top 1%).
 - [*2024.11*]&nbsp;&nbsp;&nbsp;&nbsp;2nd Prize in the Huawei Cup National Graduate Mathematical Modeling Contest.
 - [*2023.06*]&nbsp;&nbsp;&nbsp;&nbsp;1st place at the SoccerNet Action Spotting Challenge at the CVSports workshop during CVPR 2023.
 - [*2023.06*]&nbsp;&nbsp;&nbsp;&nbsp;Shandong Province Outstanding Undergraduate Graduate.
