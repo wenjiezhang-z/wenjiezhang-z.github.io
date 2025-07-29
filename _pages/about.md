@@ -49,7 +49,7 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
-This work introduced a novel method, named B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
+We introduce B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
 <details class="abstract-details" style="margin-right: 10pt;">
@@ -74,7 +74,7 @@ Surgical phase recognition (SPR) is essential for surgical workflow analysis and
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
-This work introduced a diffusion-based boundary refinement method for TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
+We introduce DBR-TAD, a diffusion-based boundary refinement method for temporal action detection TAD. DBR-TAD locates accurate action boundaries from noisy action boundaries through a progressive denoising process. Extensive experiments demonstrate that DBR-TAD achieves the state-of-the-art performance on three single-label datasets and two multi-label datasets.
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
 <details class="abstract-details" style="margin-right: 10pt;">
@@ -99,7 +99,7 @@ Yue Bi, <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, 
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
-This work introduced a novel framework designed to enhance the reliability and self-correction capability of pseudo-labels. FAM tackles confirmation bias by incorporating multiple strategies, with distinct inner and outer learning loops designed for progressive optimization. Extensive experiments on the ACDC and PROMISE12 datasets demonstrate that FAM achieves state-of-the-art performance.
+We introduce FAM, a framework that enhances the reliability and self-correction capability of pseudo-labels. FAM tackles confirmation bias by incorporating multiple strategies, with distinct inner and outer learning loops designed for progressive optimization. Extensive experiments on the ACDC and PROMISE12 datasets demonstrate that FAM achieves state-of-the-art performance.
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
 <details class="abstract-details" style="margin-right: 10pt;">
@@ -124,7 +124,7 @@ Mengrui Yao, <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</sp
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
-This work introduced TriQuery, a query-centric model for surgical triplet recognition and classification. Built on a multi-task Transformer framework, TriQuery decomposes the complex triplet task into three semantically aligned subtasks using task-specific query tokens, which are processed through specialized attention mechanisms. 
+We introduce TriQuery, a query-centric model for surgical triplet recognition and classification. Built on a multi-task Transformer framework, TriQuery decomposes the complex triplet task into three semantically aligned subtasks using task-specific query tokens, which are processed through specialized attention mechanisms. 
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
 <details class="abstract-details" style="margin-right: 10pt;">
