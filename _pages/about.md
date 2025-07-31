@@ -23,7 +23,7 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 </p>
 
 <p style="text-align: justify;">
-<span style="color: #a7b529; font-size: 1.1em; font-weight: bold;">Research Interests:</span> I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on <strong>visual scene understanding from images and videos</strong>. I have worked in <strong>image understanding tasks</strong> (Object Detection, Semantic Segmentation, Object Tracking), <strong>video understanding tasks</strong> (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection), and <strong>vision-language modeling</strong>. I am also very interested in <strong>medical image analysis</strong> and have worked on <strong>medical image segmentation tasks</strong> and <strong>medical surgical scene understanding tasks</strong>, among others. 
+<span style="color: #a7b529; font-size: 1.1em; font-weight: bold;">Research Interests:</span> I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on <strong>visual scene understanding from images and videos</strong>. I have worked in <strong>image understanding tasks</strong> (Object Detection, Semantic Segmentation, Object Tracking), <strong>video understanding tasks</strong> (Exo-Centric Videos, Ego-Centric Videos, Human Activity Detection, Real-Time Video Stream Understanding), and <strong>vision-language modeling</strong>. I am also very interested in <strong>medical image analysis</strong> and have worked on <strong>medical image segmentation tasks</strong> and <strong>medical surgical scene understanding tasks</strong>, among others. 
 </p>
 
 <p style="text-align: justify;">
