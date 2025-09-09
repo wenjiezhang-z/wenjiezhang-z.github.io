@@ -26,9 +26,11 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 <span style="color: #a7b529; font-size: 1.1em; font-weight: bold;">Research Interests:</span> I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on <strong>visual scene understanding from images and videos</strong>. I have worked in <strong>image understanding tasks</strong> (object detection, semantic segmentation, object tracking), <strong>video understanding tasks</strong> (exo-centric videos, ego-centric videos, human activity detection, real-time video stream understanding), and <strong>vision-language modeling</strong>. I am also very interested in <strong>medical image analysis</strong> and have worked on <strong>medical image segmentation tasks</strong> and <strong>medical surgical scene understanding tasks</strong>, among others. 
 </p>
 
+<!--
 <p style="text-align: justify;">
 <span style="color: #c59428; font-size: 1.1em; font-weight: bold;">Collaboration:</span> I am always open to discussions and collaborations. Please feel free to contact me if you're interested. 
 </p>
+-->
 
 <p style="text-align: justify; margin-top: 20px; margin-bottom: 20px;">
 🎓 <span style="color: #000000; font-size: 1.1em; font-weight: bold;">I am currently looking for a PhD position starting from 2026 fall. If you are interested, please feel free to contact me. Here is my <a href="https://wenjiezhang-z.github.io/assets/files/CV_WenjieZhang_SDU.pdf">resume</a>.</span></p>
