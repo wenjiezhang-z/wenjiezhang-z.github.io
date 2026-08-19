@@ -37,6 +37,8 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 -->
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Robotics and Automation Letters (**IEEE RAL**).
+- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Transactions on Medical Imaging (**IEEE TMI**).
 - *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
 - *2024.11*: &nbsp;🎉🎉 Our team won the National Second Prize in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
 - *2023.06*: &nbsp;🎉🎉 Our team won 1st place at the **SoccerNet Action Spotting** Challenge at the CVSports workshop during CVPR 2023.
@@ -50,7 +52,7 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 
 <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
 
-<strong><font color="#4169E1">Preprints</font></strong>
+<strong><font color="#4169E1">IEEE Transactions on Medical Imaging (IEEE TMI)</font></strong>
 
 We introduce B2Q-Net, which formulates the online phase recognition task as the bidirectional query between phase-level features and frame-level features. Extensive evaluations on three datasets demonstrate that B2Q-Net consistently outperforms state-of-the-art methods in recognition accuracy while achieving an inference speed of 106 fps.
 
