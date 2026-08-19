@@ -64,7 +64,6 @@ CodeAct is a novel two-stage imitation learning framework for humanoid robots th
 <p style="text-align: justify;">
 Recent advances in humanoid robotics have showcased the potential of imitation learning (IL) to replicate dexterous whole-body behaviors in unstructured environments. However, conventional IL approaches that integrate multiple skills into a unified policy often suffer from training bias toward dominant or easily learned samples, resulting in a compromised action space that fails to preserve fine-grained dynamics of individual skills. To address this limitation, we propose CodeAct, a novel two-stage IL framework that facilitates multi-skill integration through structured expert code guidance. In the first stage, individual motions are distilled into high-fidelity expert codes, which are used to populate a dynamic codebook. In the second stage, a codebook-guided attention mechanism leverages these structured expert priors to constrain the optimization of the multi-skill policy. Importantly, expert codes serve as structured skill-specific representations, providing fine-grained supervision signals for different skills throughout multi-skill integration, thus helping reduce training bias and enabling seamless skill composition. Extensive experiments in simulation and on a real Unitree G1 humanoid robot demonstrate that CodeAct achieves competitive performance in both single-skill learning and multi-skill integration.
 </p></details>
-<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
 </div>
 
 </div>
@@ -126,7 +125,7 @@ Existing temporal action detection (TAD) methods take videos of different length
 
 [**FAM: Frequency-Based Adaptive Mutual Learning for Semi-Supervised Medical Image Segmentation**](https://arxiv.org/)
 
-Yue Bi, <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Xiao Jia, Zhongwei Zhao, Ran Song, Nengwang Yun, and Wei Zhang
+<span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Yue Bi, Xiao Jia, Zhongwei Zhao, Ran Song, Nengwang Yun, and Wei Zhang
 
 <strong><font color="#4169E1">Preprints</font></strong>
 
