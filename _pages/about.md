@@ -37,7 +37,7 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 -->
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉<li><b>2026.07</b>: &nbsp;<span style="color: #d9534f; font-weight: bold;">Excited to start my new journey at the Foundation Model Team, Li Auto</b>.</li>
+- *2026.07*: &nbsp;🎉🎉 <span style="background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">Excited to start my new journey at the <b>Foundation Model Team, Li Auto</b>.</span>
 - *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Robotics and Automation Letters (**IEEE RAL**).
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Transactions on Medical Imaging (**IEEE TMI**).
 - *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
