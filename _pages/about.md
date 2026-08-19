@@ -46,10 +46,35 @@ Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsis
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/CodeAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CodeAct: Codebook-Guided Multi-Skill Integration for Dynamic Humanoid Whole-Body Control**](https://ieeexplore.ieee.org/abstract/document/11539976)
+
+Zhiheng Li, <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Chengxin Liu, Mingxin Zhang, Xing Fang, Hang Zhong, Huaidong Zhou, and Ran Song
+
+<strong><font color="#4169E1">IEEE Robotics and Automation Letters (IEEE RAL)</font></strong>
+
+CodeAct is a novel two-stage imitation learning framework for humanoid robots that resolves training bias in multi-skill integration by leveraging structured expert codebooks and attention-guided priors, achieving superior performance in both simulation and real Unitree G1 deployment.
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+<details class="abstract-details" style="margin-right: 10pt;">
+<summary class="abstract-summary-button">[<span class="custom-underline">Abstract</span>]</summary>
+<br>
+<p style="text-align: justify;">
+Recent advances in humanoid robotics have showcased the potential of imitation learning (IL) to replicate dexterous whole-body behaviors in unstructured environments. However, conventional IL approaches that integrate multiple skills into a unified policy often suffer from training bias toward dominant or easily learned samples, resulting in a compromised action space that fails to preserve fine-grained dynamics of individual skills. To address this limitation, we propose CodeAct, a novel two-stage IL framework that facilitates multi-skill integration through structured expert code guidance. In the first stage, individual motions are distilled into high-fidelity expert codes, which are used to populate a dynamic codebook. In the second stage, a codebook-guided attention mechanism leverages these structured expert priors to constrain the optimization of the multi-skill policy. Importantly, expert codes serve as structured skill-specific representations, providing fine-grained supervision signals for different skills throughout multi-skill integration, thus helping reduce training bias and enabling seamless skill composition. Extensive experiments in simulation and on a real Unitree G1 humanoid robot demonstrate that CodeAct achieves competitive performance in both single-skill learning and multi-skill integration.
+</p></details>
+<a href="https://github.com/vsislab/B2Q-Net" class="code-link">[Code]</a>
+</div>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Publication/B2Q-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**B2Q-Net: Bidirectional Branch Query Network for Online Surgical Phase Recognition**](https://arxiv.org/)
+[**B2Q-Net: Bidirectional Branch Query Network for Online Surgical Phase Recognition**](https://ieeexplore.ieee.org/document/11355439)
 
 <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
 
@@ -208,7 +233,7 @@ This system leverages advanced image processing and deep learning techniques to 
         <p style="margin: 0 0 5px 0;"><strong>Position:</strong> Master of Control Science and Engineering</p>
         <p style="margin: 0 0 5px 0;"><strong>Under:</strong> Prof. Wei Zhang</p>
         <p style="margin: 0 0 5px 0;"><strong>Thesis:</strong> Query-based Surgical Scene Understanding</p>
-        <p style="margin: 0;"><strong>Period:</strong> Sep 2023 - Present</p>
+        <p style="margin: 0;"><strong>Period:</strong> Sep 2023 - Jun 2026</p>
     </div>
 </div>
 
