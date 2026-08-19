@@ -38,7 +38,7 @@ Hello! I am an algorithm engineer at the Foundation Model Team, <b>Li Auto</b>. 
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 <span style="background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">Excited to start my new journey at the <b>Foundation Model Team, Li Auto</b>.</span>
-- *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Robotics and Automation Letters (**IEEE RAL**).
+- *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Robotics and Automation Letters (**IEEE R-AL**).
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Transactions on Medical Imaging (**IEEE TMI**).
 - *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
 - *2024.11*: &nbsp;🎉🎉 Our team won the National Second Prize in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
@@ -53,7 +53,7 @@ Hello! I am an algorithm engineer at the Foundation Model Team, <b>Li Auto</b>. 
 
 Zhiheng Li, <span style="font-size: 1.1em; font-weight: bold;">Wenjie Zhang</span>, Chengxin Liu, Mingxin Zhang, Xing Fang, Hang Zhong, Huaidong Zhou, and Ran Song
 
-<strong><font color="#4169E1">IEEE Robotics and Automation Letters (IEEE RAL)</font></strong>
+<strong><font color="#4169E1">IEEE Robotics and Automation Letters (IEEE R-AL)</font></strong>
 
 CodeAct is a novel two-stage imitation learning framework for humanoid robots that resolves training bias in multi-skill integration by leveraging structured expert codebooks and attention-guided priors, achieving superior performance in both simulation and real Unitree G1 deployment.
 
