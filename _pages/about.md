@@ -37,12 +37,14 @@ Hello! I am an algorithm engineer at the Foundation Model Team, <b>Li Auto</b>. 
 -->
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 <span style="background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">Excited to start my new journey at the <b>Foundation Model Team, Li Auto</b>.</span>
-- *2026.05*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Robotics and Automation Letters (**IEEE R-AL**).
-- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Transactions on Medical Imaging (**IEEE TMI**).
-- *2025.06*: &nbsp;🎉🎉 Our team won 2nd place at the **ATPOS 2025 Big Data Competition**.
-- *2024.11*: &nbsp;🎉🎉 Our team won the National Second Prize in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
-- *2023.06*: &nbsp;🎉🎉 Our team won 1st place at the **SoccerNet Action Spotting** Challenge at the CVSports workshop during CVPR 2023.
+
+- *2026.07*: &nbsp;🎉🎉 <span style="background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">Excited to start my new journey as an Algorithm Engineer at the **Foundation Model Team, Li Auto**.</span>
+- *2026.05*: &nbsp;📄 Our paper has been accepted by **IEEE Robotics and Automation Letters (IEEE R-AL)**.
+- *2026.01*: &nbsp;📄 Our paper has been accepted by **IEEE Transactions on Medical Imaging (IEEE TMI)**.
+- *2025.10*: &nbsp;🥉 Won **Third Place** (Bronze Medal) in the **Mecha Challenge (Robot Dance Championship)** at **IROS 2025**, Hangzhou.
+- *2025.06*: &nbsp;🥈 Our team achieved **2nd Place** in the **APTOS 2025 Big Data Challenge**.
+- *2024.11*: &nbsp;🏅 Awarded the **National Second Prize** in the **Huawei Cup** China Graduate Mathematical Modeling Contest.
+- *2023.06*: &nbsp;🏆 Our team secured **1st Place** in the **SoccerNet Action Spotting Challenge** at the CVSports Workshop, **CVPR 2023**.
 
 # 📝 Publications 
 
