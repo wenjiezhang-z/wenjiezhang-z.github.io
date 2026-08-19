@@ -19,12 +19,12 @@ redirect_from:
 
 # 👤 About Me
 <p style="text-align: justify;">
-Hello! I am currently pursuing a Master's degree at the <a href="http://www.vsislab.com">Visual Sensing and Intelligent Systems Laboratory (VSISLab)</a>, Shandong University, China, with a focus on computer vision and deep learning. I am advised by <a href="https://ieeexplore.ieee.org/author/37085379581">Prof. Wei Zhang</a>, and I also work closely with my co-supervisors <a href="https://faculty.sdu.edu.cn/songran/en/index.htm">Prof. Ran Song</a> and <a href="https://scholar.google.com/citations?user=fjmxqlUAAAAJ&hl=zh-CN">Prof. Xiao Jia</a>. Before this, I received my Bachelor's degree in Automation from Shandong University.
+Hello! I am an algorithm engineer at the Foundation Model Team, <b>Li Auto</b>. Previously, I received my Master's degree in Control Science and Engineering from Shandong University, China, where I was a member of the <a href="http://www.vsislab.com">Visual Sensing and Intelligent Systems Laboratory (VSISLab)</a> advised by <a href="https://ieeexplore.ieee.org/author/37085379581">Prof. Wei Zhang</a>, and worked closely with <a href="https://faculty.sdu.edu.cn/songran/en/index.htm">Prof. Ran Song</a> and <a href="https://scholar.google.com/citations?user=fjmxqlUAAAAJ&hl=zh-CN">Prof. Xiao Jia</a>. Before that, I received my Bachelor's degree in Automation from Shandong University. My research interests include computer vision, deep learning, and embodied AI.
 </p>
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;">
 <span style="color: #a7b529; font-size: 1.1em; font-weight: bold;">Research Interests:</span> I am broadly interested in the field of computer vision and deep learning. Particularly, I have mostly focused on <strong>visual scene understanding from images and videos</strong>. I have worked in <strong>image understanding tasks</strong> (object detection, semantic segmentation, object tracking), <strong>video understanding tasks</strong> (exo-centric videos, ego-centric videos, human activity detection, real-time video stream understanding), and <strong>vision-language modeling</strong>. I am also very interested in <strong>medical image analysis</strong> and have worked on <strong>medical image segmentation tasks</strong> and <strong>medical surgical scene understanding tasks</strong>, among others. 
-</p>
+</p> -->
 
 
 <p style="text-align: justify;">
