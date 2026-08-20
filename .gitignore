@@ -1,3 +1,18 @@
 _site/
 push.sh
 .DS_Store
+
+# Local Jekyll toolchain (bundler-installed, ~106 MB) — never commit
+.bundle/
+.gems/
+vendor/
+
+# Scratch dir for image processing
+.tmp_mask/
+
+# Camera/phone originals are kept on local disk only; the site serves the
+# smaller *_web.mp4 / *_web.jpg derivatives generated from them.
+# Note: every file the site actually serves from images/image/ is a .jpg,
+# so ignoring .png here is safe — put new web-facing images in as .jpg.
+assets/*.MOV
+images/image/*.png
