@@ -319,7 +319,7 @@ This system combines image processing and deep learning to automatically assess 
     <p class="edu-card-title">Shandong University</p>
     <p><strong>Degree:</strong> M.Eng. in Control Science and Engineering</p>
     <p><strong>Advisor:</strong> Prof. Wei Zhang</p>
-    <p><strong>Thesis:</strong> Query-Based Surgical Scene Understanding</p>
+    <p><strong>Thesis:</strong> Research and Implementation of Surgical Workflow Analysis Based on Query Networks and Test-Time Adaptation</p>
     <p class="edu-card-meta">Sep 2023 – Jun 2026</p>
   </div>
   <figure class="edu-card-photo">
