@@ -76,7 +76,7 @@ Hello! I am an Algorithm Engineer with the Foundation Model Team at <b>Li Auto</
 
 Zhiheng Li, <span class="author-me">Wenjie Zhang</span>, Chengxin Liu, Mingxin Zhang, Xing Fang, Hang Zhong, Huaidong Zhou, and Ran Song
 
-<span class="pub-venue">IEEE Robotics and Automation Letters (IEEE RA-L)</span>
+<span class="pub-venue">IEEE Robotics and Automation Letters (IEEE RA-L), IF: 5.3</span>
 
 CodeAct is a two-stage imitation learning framework for humanoid robots that resolves training bias in multi-skill integration by leveraging structured expert codebooks and attention-guided priors, achieving strong performance both in simulation and in real-world deployment on a Unitree G1.
 
@@ -100,7 +100,7 @@ Recent advances in humanoid robotics have showcased the potential of imitation l
 
 <span class="author-me">Wenjie Zhang</span>, Zhiheng Li, Yue Bi, Xiao Jia, Ran Song, Yipeng Zhang, and Wei Zhang
 
-<span class="pub-venue">IEEE Transactions on Medical Imaging (IEEE TMI)</span>
+<span class="pub-venue">IEEE Transactions on Medical Imaging (IEEE TMI), IF: 12.4</span>
 
 B2Q-Net reformulates online surgical phase recognition as a bidirectional query between phase-level and frame-level features. Evaluations on three datasets show that it consistently outperforms state-of-the-art methods in accuracy while running at 106 fps.
 
