@@ -266,7 +266,7 @@ This system combines image processing and deep learning to automatically assess 
 
 # 🏅 Honors and Awards
 - [*2025.10*]&nbsp;&nbsp;&nbsp;&nbsp;3rd Place, Mecha Challenge (Robot Dance Championship), IROS 2025.
-- [*2025.06*]&nbsp;&nbsp;&nbsp;&nbsp;2nd Place, APTOS 2025 Big Data Challenge.
+- [*2025.06*]&nbsp;&nbsp;&nbsp;&nbsp;2nd Place, APTOS Big Data Competition 2025.
 - [*2025.05*]&nbsp;&nbsp;&nbsp;&nbsp;May Fourth Youth Science Award, Shandong University (Top 1%).
 - [*2024.11*]&nbsp;&nbsp;&nbsp;&nbsp;National 2nd Prize, China Graduate Mathematical Modeling Contest (Huawei Cup).
 - [*2023.06*]&nbsp;&nbsp;&nbsp;&nbsp;1st Place, SoccerNet Action Spotting Challenge, CVSports Workshop at CVPR 2023.
@@ -280,6 +280,12 @@ This system combines image processing and deep learning to automatically assess 
       <img src="images/image/cert_iros_web.jpg" alt="Bronze medal certificate, Mecha Challenge at IROS 2025">
     </a>
     <figcaption>🥉 3rd Place<br>Mecha Challenge, IROS 2025</figcaption>
+  </figure>
+  <figure>
+    <a href="images/image/cert_aptos_web.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="images/image/cert_aptos_web.jpg" alt="1st Runner-up certificate, APTOS Big Data Competition 2025">
+    </a>
+    <figcaption>🥈 2nd Place<br>APTOS Big Data Competition 2025</figcaption>
   </figure>
   <figure>
     <a href="images/image/award_54_web.jpg" target="_blank" rel="noopener noreferrer">
@@ -298,12 +304,6 @@ This system combines image processing and deep learning to automatically assess 
       <img src="images/image/cert_cvpr_web.jpg" alt="First prize certificate, SoccerNet Action Spotting Challenge at CVPR 2023">
     </a>
     <figcaption>🏆 1st Place<br>SoccerNet Action Spotting, CVPR 2023</figcaption>
-  </figure>
-  <figure>
-    <a href="images/image/cert_sdgrad_web.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="images/image/cert_sdgrad_web.jpg" alt="Outstanding Undergraduate Graduate of Shandong Province certificate">
-    </a>
-    <figcaption>🏅 Outstanding Graduate<br>Shandong Province, 2023</figcaption>
   </figure>
 </div>
 
